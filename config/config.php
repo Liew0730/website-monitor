@@ -15,9 +15,9 @@ return [
     'db' => [
         'host'    => '127.0.0.1',
         'port'    => 3307,
-        'name'    => 'website_monitor',
-        'user'    => 'root',
-        'pass'    => 'kimfar0730',
+        'name'    => 'synergy1_liewkimfar_website-monitor',
+        'user'    => 'synergy1_yenping',
+        'pass'    => 'R.zb0ZwEuGZ}*fW2',
         'charset' => 'utf8mb4',
     ],
 

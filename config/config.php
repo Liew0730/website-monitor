@@ -14,7 +14,7 @@ return [
     // ---------------- Database settings ----------------
     'db' => [
         'host'    => '127.0.0.1',
-        'port'    => 3307,
+        'port'    => 3306,
         'name'    => 'synergy1_liewkimfar_website-monitor',
         'user'    => 'synergy1_yenping',
         'pass'    => 'R.zb0ZwEuGZ}*fW2',
